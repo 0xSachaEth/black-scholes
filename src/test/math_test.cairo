@@ -1,4 +1,4 @@
-use cairo_template::math;
+use black_scholes::math;
 
 #[test]
 fn test_math() {
