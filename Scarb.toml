@@ -9,7 +9,7 @@ sierra = "cairo-compile . -r"
 test = "cairo-test ."
 
 [dependencies]
-cubit = { git = "https://github.com/influenceth/cubit" }
+cubit = { git = "https://github.com/0xsachaeth/cubit" }
 # Add your own custom commands and run them with scarb run <command>
 
 # Uncomment if you want to use dependencies
